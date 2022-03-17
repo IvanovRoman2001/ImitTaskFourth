@@ -1,0 +1,10 @@
+.idea
+target
+
+**/*.xml
+*.class
+**/*.iml
+
+*.log
+
+!pom.xml
